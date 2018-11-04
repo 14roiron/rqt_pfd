@@ -7,7 +7,7 @@ Here only the Principal Flight Display have been implemented, but other should b
 
 To install the project, you need to download and install the base plugin
 from this link https://sourceforge.net/projects/qfi/
-```bash```
+```bash
 cd folder
 mkdir build
 qmake ..
