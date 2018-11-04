@@ -1,0 +1,20 @@
+<library path="lib/librqt_pfd">
+    2   <class name="rqt_pfd/WidgetPFD" type="rqt_pfd::WidgetPFDWrapper" base_class_type="rqt_gui_cpp::Plugin">
+   3     <description>
+   4       a first test to design a Principal flight display
+   5     </description>
+   6     <qtgui>
+   7       <!-- optional grouping...
+  11       <group>
+  12         <label>Subgroup</label>
+  13       </group>
+  14       -->
+   8       <group>
+   9         <label>QFlightInstru</label>
+  15       <label>PFD</label>
+  16       <icon type="theme">system-help</icon>
+  17       <statustip>Great user interface to provide real value.</statustip>
+  10       </group>
+  18     </qtgui>
+  19   </class>
+  20 </library>
